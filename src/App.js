@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div className="container">
-        <img src="https://cdn.mylab.co.id/images/mylab.png" alt="profile image" width="100" height="50"></img>
+        <img src="https://cdn.mylab.co.id/images/mylab.png" alt="profile" width="100" height="50"></img>
         <p>Name	: Rifki Nur Fikar Ramadhan</p>
         <p>NIK	: 3202322602930004</p>
         <p>Date Of Birth	: 26 Feb 1993</p>
